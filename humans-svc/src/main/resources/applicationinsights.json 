@@ -1,0 +1,8 @@
+{
+  "connectionString": "InstrumentationKey=0c63ccd1-b218-48bd-981b-890aa80aaaeb;IngestionEndpoint=https://westeurope-5.in.applicationinsights.azure.com/;LiveEndpoint=https://westeurope.livediagnostics.monitor.azure.com/",
+   "instrumentation": {
+    "logging": {
+      "level": "DEBUG"
+    }
+  }
+}
